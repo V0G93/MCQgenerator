@@ -7,7 +7,7 @@ from src.MCQgenerator.utils import read_file,get_table_data
 from src.MCQgenerator.logger import logging
 
 from langchain.chat_models import ChatOpenAI
-from langchain.prompts import PrompTemplate
+from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain.chains import SequentialChain
 
