@@ -1,6 +1,7 @@
 # Multiple Choice Question Creator
 
 This repository houses a Multiple Choice Question (MCQ) Creator built with LangChain and OpenAI, integrated into a Streamlit web app. Customize your quizzes by inputting your data, selecting the number of questions, specifying topics, and setting difficulty levels.
+![alt text](C:\Users\victo\MCQgenerator\image.png)
 
 ## Quick Start
 
