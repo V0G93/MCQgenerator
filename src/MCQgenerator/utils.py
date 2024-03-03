@@ -29,7 +29,7 @@ def get_table_data(quiz_str):
         quiz_dict=json.loads(quiz_str)
         quiz_table_data=[]
 
-        for key.value in quiz_dict.items():
+        for key,value in quiz_dict.items():
             mcq=value["mcq"]
             options=" || ".join(
                 [
